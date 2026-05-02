@@ -42,7 +42,7 @@ export default function Footer() {
             </ul>
           </div>
           <div className="footer__bottom">
-            <span>© 2026 TalentBD — CSE Final Year Project</span>
+            <span>© 2026 TalentBD — CSE Final Year Project By Sheam/CSE 21</span>
             <div className="footer__socials">
               <a href="#" aria-label="GitHub"><Github size={16} /></a>
               <a href="#" aria-label="LinkedIn"><Linkedin size={16} /></a>
